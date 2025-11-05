@@ -1,0 +1,21 @@
+🧠 Perguntas rápidas
+O que é CI/CD e por que é importante?
+💡 Resposta: CI/CD é automatizar a integração e o deploy de código, 
+onde cada commit aciona testes automáticos e, 
+se aprovado, é implantado em produção sem intervenção manual.
+É importante pois acelera o fluxo de testes automáticos e deploy do projeto.
+
+Em qual pasta os workflows do GitHub ficam armazenados?
+💡 Resposta: na pasta .github/workflows
+
+🧠 Perguntas Etapa 3:
+
+O que aparece no log do GitHub Actions após a execução?
+💡 Resposta:
+
+O que acontece se alterar o código e fizer novo push?
+💡 Resposta:
+
+🧠 Pergunta extra:
+O que acontece se um teste falhar?
+💡 Resposta:
