@@ -13,9 +13,15 @@ Em qual pasta os workflows do GitHub ficam armazenados?
 O que aparece no log do GitHub Actions após a execução?
 💡 Resposta:
 
+Hello CI/CD!
+Post job cleanup.
+Cleaning up orphan processes
+
+
 O que acontece se alterar o código e fizer novo push?
-💡 Resposta:
+💡 Resposta: Roda o CI/CD a cada Push
 
 🧠 Pergunta extra:
 O que acontece se um teste falhar?
-💡 Resposta:
+💡 Resposta: se o teste falhar ele vai interromper a execução do CI/CD,
+evitando fazer deploy de uma versão quebrada
